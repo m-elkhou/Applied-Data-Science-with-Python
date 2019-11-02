@@ -23,7 +23,8 @@ Learn how to analyze data using Python. This course will take you from the basic
 - Data Analysis libraries: will learn to use Pandas DataFrames, Numpy multi-dimentional arrays, and SciPy libraries to work with a various datasets. We will introduce you to pandas, an open-source library, and we will use it to load, manipulate, analyze, and visualize cool datasets. Then we will introduce you to another open-source library, scikit-learn, and we will use some of its machine learning algorithms to build smart models and make cool predictions.
 
 **COURSE SYLLABUS**
-###Module 1 - Importing Datasets
+
+### Module 1 - Importing Datasets
 - Learning Objectives
 - Understanding the Domain
 - Understanding the Dataset
@@ -32,41 +33,41 @@ Learn how to analyze data using Python. This course will take you from the basic
 - Basic Insights from Datasets
 - Module 2 - Cleaning and Preparing the Data
 
-###Identify and Handle Missing Values
+### Identify and Handle Missing Values
 - Data Formatting
 - Data Normalization Sets
 - Binning
 - Indicator variables
 
-###Module 3 - Summarizing the Data Frame
+### Module 3 - Summarizing the Data Frame
 - Descriptive Statistics
 - Basic of Grouping
 - ANOVA
 - Correlation
 - More on Correlation
 
-###Module 4 - Model Development
+### Module 4 - Model Development
 - Simple and Multiple Linear Regression
 - Model Evaluation Using Visualization
 - Polynomial Regression and Pipelines
 - R-squared and MSE for In-Sample Evaluation
 - Prediction and Decision Making
 
-###Module 5 - Model Evaluation
+### Module 5 - Model Evaluation
 - Model  Evaluation
 - Over-fitting, Under-fitting and Model Selection
 - Ridge Regression
 - Grid Search
 - Model Refinement
 
-###GENERAL INFORMATION
+### GENERAL INFORMATION
 - This course is free.
 - It is self-paced.
 - It can be taken at any time.
 - It can be audited as many times as you wish.
 - Python programming, Statistics
 
-###REQUIREMENTS
+### REQUIREMENTS
 - Some Python experience is expected
 
 ***
