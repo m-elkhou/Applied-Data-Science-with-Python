@@ -22,7 +22,7 @@ Learn how to analyze data using Python. This course will take you from the basic
 
 - Data Analysis libraries: will learn to use Pandas DataFrames, Numpy multi-dimentional arrays, and SciPy libraries to work with a various datasets. We will introduce you to pandas, an open-source library, and we will use it to load, manipulate, analyze, and visualize cool datasets. Then we will introduce you to another open-source library, scikit-learn, and we will use some of its machine learning algorithms to build smart models and make cool predictions.
 
-**COURSE SYLLABUS**
+## **COURSE SYLLABUS**
 
 ### Module 1 - Importing Datasets
 - Learning Objectives
