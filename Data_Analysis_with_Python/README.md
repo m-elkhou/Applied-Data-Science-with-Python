@@ -33,7 +33,7 @@ Learn how to analyze data using Python. This course will take you from the basic
 - Basic Insights from Datasets
 - Module 2 - Cleaning and Preparing the Data
 
-### Identify and Handle Missing Values
+### Module 2 - Identify and Handle Missing Values
 - Data Formatting
 - Data Normalization Sets
 - Binning
